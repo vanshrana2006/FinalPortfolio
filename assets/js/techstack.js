@@ -20,9 +20,9 @@ const techStack = [
     langDesc: "<li>JavaScript, often abbreviated JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS</li>",
   },
   {
-    langImage: "assets/images/techstack-page/node.png",
-    langName: "Node",
-    langDesc: "<li>Node.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on the V8 engine and executes JavaScript code outside a web browser</li>",
+    langImage: "assets/images/techstack-page/react.png",
+    langName: "MySQL",
+    langDesc: "<li>MySQL is an open-source relational database management system based on Structured Query Language (SQL)</li><li>It is widely used for storing and managing data in web applications</li><li>Known for reliability, performance, and ease of use</li>",
   },
   {
     langImage: "assets/images/techstack-page/python.png",
@@ -45,9 +45,9 @@ const techStack = [
     langDesc: "<li>Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development</li>",
   },
   {
-    langImage: "assets/images/techstack-page/react.png",
-    langName: "React",
-    langDesc: "<li>React is a free and open-source front-end JavaScript library for building user interfaces based on UI components</li>",
+    langImage: "assets/images/techstack-page/node.png",
+    langName: "n8n",
+    langDesc: "<li>n8n is a free and open-source workflow automation tool that enables you to connect various apps and services with customizable logic using a node-based interface</li>",
   },
   {
     langImage:"assets/images/techstack-page/c.png",
