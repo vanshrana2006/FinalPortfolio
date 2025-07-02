@@ -28,6 +28,8 @@ let header = $(`
    <li class="nav-item nav-item-hover"><a class="nav-link" href="projects.html">Projects</a></li>
    <li class="nav-item nav-item-hover"><a class="nav-link" href="research.html">Research</a></li>
    <li class="nav-item nav-item-hover"><a class="nav-link" href="education.html">Education</a></li>
+   <li class="nav-item nav-item-hover"><a class="nav-link" href="techstack.html">Skills</a></li>
+   <li class="nav-item nav-item-hover"><a class="nav-link" href="sem_temp.html">Semester Memories</a></li>
    <li class="nav-item nav-item-hover"><a class="nav-link" href="https://drive.google.com/drive/folders/15vzkvBzQZMs6pfJ1wjazpJ6D10l76AbY" target="_blank">Resume</a></li>
    <li class="nav-item">
    <input type="checkbox" id="dark_toggler" class="dark_toggler" aria-label="Toggle Light Mode" onclick="toggle_light_mode()" checked>
@@ -138,7 +140,7 @@ let footer = $(`
              <div class="form-header">
                 <h6 class="display">Get in Touch</h6>
               </div>
-                <form name="form1" action="https://formcarry.com/s/CVeW7bBsOyO" method="POST" accept-charset="UTF-8" >
+                <form name="form1" action="https://formcarry.com/s/80rJAslHU0s" method="POST" accept-charset="UTF-8" >
                   <input id="name" type="text" name="name" placeholder="Your Name" required/>
                   <input id="email" type="email" name="email" placeholder="Email Address" required/>                  
                   <textarea id="textArea" name="message" placeholder="Type your Message" required></textarea>
